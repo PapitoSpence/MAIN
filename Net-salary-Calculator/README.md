@@ -4,8 +4,10 @@ Desricription: A program whose major task is to calculate an individual’s Net 
 
 Setup: First run npm install prompt-sync
 The whole program is built on JS.
-To test the whole program run on console then it wil request you to input any amount for basic salary
-Author: Spencer Mwenda
+To test the whole program run node index.js then it wil request you to input any amount for basic salary then poceed to key in benefits.
+After that it will calculate for you the NHIF, NSSF and KRA deductions. By attaining these you will be able to acknowledge your net salary as an indivdual.
+
+Author: Spencer Mwenda.
 
 License:MIT License
 
